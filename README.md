@@ -17,8 +17,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ## 🛠️ How to Use This Project
 
 1. **Clone the repository**
-   ```bash
-  https://github.com/Jainriddham/Customer_Trend_Data_Analysis_SQL-Python-Power-BI_Project/edit/main/README.md
+   ```bash https://github.com/Jainriddham/Customer_Trend_Data_Analysis_SQL-Python-Power-BI_Project/edit/main/README.md
    ```
 2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
 
